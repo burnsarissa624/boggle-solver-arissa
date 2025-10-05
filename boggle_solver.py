@@ -5,10 +5,10 @@ SID: [003103878]
 Boggle Solver
 -------------
 Finds all valid words in an NxN grid of letters based on Boggle rules.
-* Words must use adjacent tiles (including diagonals)
-* Each word may not reuse a cube
-* Words must be at least 3 letters long
-* Special tiles ("Qu", "St", "Ie") each count as two letters
+ Words must use adjacent tiles (including diagonals)
+ Each word may not reuse a cube
+Words must be at least 3 letters long
+Special tiles ("Qu", "St", "Ie") each count as two letters
 """
 
 class Boggle:
